@@ -1,0 +1,30 @@
+The amount of figures is1
+Group
+The amount is 3
+Group
+The amount is 3
+Circle
+Radius = 100
+The X is 767
+The Y is 169
+The Color is Color [Gray]
+Circle
+Radius = 100
+The X is 794
+The Y is 343
+The Color is Color [Gray]
+Circle
+Radius = 100
+The X is 985
+The Y is 234
+The Color is Color [Gray]
+Circle
+Radius = 100
+The X is 629
+The Y is 411
+The Color is Color [Gray]
+Circle
+Radius = 100
+The X is 551
+The Y is 250
+The Color is Color [Gray]
